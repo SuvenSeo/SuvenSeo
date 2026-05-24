@@ -12,13 +12,13 @@
   <br />
   <br />
 
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=940&lines=Co-founder+%40ArdenoStudio+with+Ovindu;Building+premium+websites+and+AI+products;Shipping+Sri+Lanka+market-intelligence+systems;Turning+ideas+into+live+products" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=940&lines=Co-founder+%40ArdenoStudio;Building+premium+websites+and+AI+products;Shipping+Sri+Lanka+market-intelligence+systems;Turning+ideas+into+live+products" />
 
 </div>
 
 ## Signal
 
-I am **Suven Seoras**, an **Artificial Intelligence and Data Science** student from Colombo and co-founder of **Ardeno Studio** with **Ovindu**. I build across two lanes: polished client-facing websites for businesses, and deeper software systems that turn messy local data into usable products.
+I am **Suven Seoras**, an **Artificial Intelligence and Data Science** student from Colombo and co-founder at **Ardeno Studio**. I build across two lanes: polished client-facing websites for businesses, and deeper software systems that turn messy local data into usable products.
 
 That mix is intentional. A good product needs taste, deployment speed, reliable data, and enough engineering discipline to survive outside a demo.
 
@@ -41,7 +41,7 @@ That mix is intentional. A good product needs taste, deployment speed, reliable 
 
 ## Ardeno Studio
 
-Ardeno Studio is the web agency and product lab I co-founded with Ovindu. We build websites for businesses, then use the same shipping engine to create larger software products and AI-enabled platforms.
+Ardeno Studio is the web agency and product lab where I work as co-founder. We build websites for businesses, then use the same shipping engine to create larger software products and AI-enabled platforms.
 
 | Demo | Type | Live |
 | --- | --- | --- |
