@@ -104,6 +104,11 @@ flowchart LR
   <img alt="Core stack" src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,vite,tailwind,fastapi,supabase,postgres,vercel,githubactions,figma,git,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <img alt="Suven GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuvenSeo&amp;theme=github_dark" />
+  <img alt="Suven top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuvenSeo&amp;theme=github_dark" />
+</p>
+
 ## Live Board
 
 | Product | Live |
