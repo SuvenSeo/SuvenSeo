@@ -16,7 +16,7 @@ Building practical intelligence systems, automation tools, client websites, and 
 
 I work on deployed, Sri Lanka-local products where the hard part is not just the UI. The work usually includes scraping messy sources, shaping data into useful APIs, building dashboards people can actually use, and adding automation that stays auditable.
 
-Currently studying **Artificial Intelligence and Data Science at IIT**, while running Ardeno Studio across web design, client demos, market intelligence, AI workflows, developer tooling, and startup products.
+Currently studying **Artificial Intelligence and Data Science at IIT**, while co-running Ardeno Studio across web design, client demos, market intelligence, AI workflows, developer tooling, and startup products.
 
 ## Build Map
 
@@ -29,7 +29,7 @@ Currently studying **Artificial Intelligence and Data Science at IIT**, while ru
 
 ## Ardeno Studio
 
-I run **Ardeno Studio** as a web agency and product lab. The studio builds premium websites for client-facing businesses, then uses the same execution system to ship data products, automations, and AI-enabled platforms.
+I co-founded **Ardeno Studio** with Ovindu and help run it as a web agency and product lab. The studio builds premium websites for client-facing businesses, then uses the same execution system to ship data products, automations, and AI-enabled platforms.
 
 | Demo | Live site |
 | --- | --- |
