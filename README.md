@@ -1,36 +1,79 @@
+<div align="center">
+
 # Suven Seoras
 
-I build production-minded AI and data products under Ardeno Studio, focused on Sri Lankan market intelligence, automation, and practical operating systems.
+**AI and data product builder from Colombo, Sri Lanka.**
 
-Current focus:
+Building practical intelligence systems, automation tools, and full-stack products with Ardeno Studio.
 
-- Market intelligence platforms for vehicle, food, and living-cost signals
-- AI-assisted internal tools with approval gates, audit trails, and safe defaults
-- Full-stack product prototypes that can move from demo to deployment
+<p>
+  <a href="https://github.com/ArdenoStudio"><img alt="Ardeno Studio" src="https://img.shields.io/badge/Ardeno%20Studio-product%20lab-111827?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/suvenseoras/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-suvenseoras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SuvenSeo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-SuvenSeo-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
-## Selected Work
+</div>
 
-| Project | What it shows | Stack |
+I work on deployed, Sri Lanka-local products where the hard part is not just the UI. The work usually includes scraping messy sources, shaping data into useful APIs, building dashboards people can actually use, and adding automation that stays auditable.
+
+Currently studying **Artificial Intelligence and Data Science at IIT**, while building production-minded products across market intelligence, AI workflows, developer tooling, and startup demos.
+
+## Build Map
+
+| Domain | Systems | What they show |
 | --- | --- | --- |
-| [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) | Vehicle price intelligence for Sri Lankan listings, with a deployed product surface and backend API | Python, FastAPI, React, TypeScript, Supabase |
-| [Ariva](https://github.com/SuvenSeo/life-platform) | Sri Lanka living-intelligence dashboard connecting food, fuel, property, and vehicle signals | Python, FastAPI, React, Playwright |
-| [Food Platform](https://github.com/SuvenSeo/Food-Platform) | Food price intelligence and comparison platform for public market signals | TypeScript, React, API integrations |
-| [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with dashboard workflows, Telegram automation, memory, and scheduled routines | JavaScript, Next.js, Supabase, AI APIs |
-| [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) | Product demo for a premium reader and writer platform with reader, creator, and admin flows | JavaScript, React, Vite |
+| Market intelligence | [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) · [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) · [FoodLK](https://github.com/SuvenSeo/Food-Platform) · [Octane](https://github.com/ArdenoStudio/octane) · [Ariva](https://github.com/ArdenoStudio/life-platform) | Scrapers, normalization, pricing logic, trend dashboards, public APIs, and live data products for local markets. |
+| Finance and operations | [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) · [Seylan uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) · [SEOS](https://github.com/SuvenSeo/SEO-OS) | FastAPI/Next.js systems, AI assistants, operational dashboards, uptime monitoring, approval gates, and scheduled automations. |
+| Developer and product tools | [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) · [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) · [FullTank](https://github.com/OnithaPerera/FullTank) | Local-first analytics, polished product demos, and collaborative builds that move from concept to usable interface. |
+
+## Selected Systems
+
+| Project | Role / contribution | Stack |
+| --- | --- | --- |
+| [Octane](https://github.com/ArdenoStudio/octane) | Fuel price intelligence for Sri Lanka with daily price tracking, history, alerts, widgets, and an open API. | FastAPI, React, Vite, PostgreSQL, Fly.io, Vercel |
+| [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | Backend lead for a 24-hour buildathon banking demo covering wallets, assistant flows, loan health, and SME bookkeeping. | FastAPI, Supabase, Groq, ElevenLabs, Next.js |
+| [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Real estate intelligence platform with multi-source scraping, geocoding, trend charts, heatmaps, and comparable-based deal scoring. | FastAPI, PostgreSQL, Playwright, React, Vite |
+| [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) | Vehicle price intelligence platform for Sri Lankan listings with backend APIs and analytics surfaces. | Python, FastAPI, React, TypeScript, Supabase |
+| [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with dashboard workflows, Telegram automation, memory, tools, and proactive routines. | Next.js, Supabase, Groq, Gemini, Telegram |
+| [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Local analytics tool for Codex token usage, estimated credits, project breakdowns, reports, and WakaTime AI coding time. | Python, PowerShell, HTML reports |
 
 ## How I Build
 
-- I prefer shipped, testable product loops over static prototypes.
-- I care about real data paths, deployment checks, and browser-level verification.
-- I design automation with approval gates, suppression rules, and clear failure modes.
-- I keep interfaces direct, fast, and focused on repeated use.
+- Product first: dashboards, workflows, and APIs should exist for a real use case, not just a screenshot.
+- Data-aware: I care about freshness, source transparency, pipeline health, and failure modes.
+- AI with control: assistants and automations need approvals, logs, suppression rules, and graceful fallback behavior.
+- Runtime truth: I prefer build checks, browser checks, smoke tests, and deployed URLs over vague "it should work" claims.
 
-## Core Tools
+## Tools I Reach For
 
-Python, FastAPI, TypeScript, React, Next.js, Vite, Supabase, PostgreSQL, Vercel, GitHub Actions, Playwright, AI APIs, and agent-assisted development workflows.
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=0b1f16" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
 
-## Contact
+## Live Links
+
+| Product | Live |
+| --- | --- |
+| Octane | [octane-smoky.vercel.app](https://octane-smoky.vercel.app) |
+| Seylan Hub | [seylan-hub.vercel.app](https://seylan-hub.vercel.app/) |
+| PropertyLK | [propertylk-one.vercel.app](https://propertylk-one.vercel.app/) |
+| AutoLens LK | [vehicle-platform-one.vercel.app](https://vehicle-platform-one.vercel.app/) |
+| FoodLK | [food-platform-one.vercel.app](https://food-platform-one.vercel.app) |
+| InkFlow Studio Demo | [inkflow-studio-demo.vercel.app](https://inkflow-studio-demo.vercel.app) |
+
+## Connect
 
 - GitHub: [@SuvenSeo](https://github.com/SuvenSeo)
-- Ardeno Studio: [@ArdenoStudio](https://github.com/ArdenoStudio)
+- Studio: [@ArdenoStudio](https://github.com/ArdenoStudio)
 - LinkedIn: [suvenseoras](https://www.linkedin.com/in/suvenseoras/)
