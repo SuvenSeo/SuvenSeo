@@ -70,6 +70,7 @@ flowchart LR
     D --> D1["Seylan Hub"]
     D --> D2["SEOS"]
     D --> D3["Codex Usage Tracker"]
+    D --> D4["AgentGuard"]
 ```
 
 ## Selected Systems
@@ -84,6 +85,7 @@ flowchart LR
 | [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | Banking buildathon system with wallets, assistant flows, loan health, and SME bookkeeping. | FastAPI, Supabase, Groq, ElevenLabs, Next.js |
 | [Seylan Uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) | Public uptime and status history for Seylan Hub. | Upptime, GitHub Actions |
 | [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with memory, tools, Telegram automation, and dashboard workflows. | Next.js, Supabase, Groq, Gemini |
+| [AgentGuard](https://github.com/SuvenSeo/agentguard) | Local-first security preflight for AI-agent repos, MCP configs, and developer workstations. | Python CLI, static analysis, SARIF, GitHub Actions |
 | [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Local analytics for Codex usage, token estimates, project breakdowns, and reports. | Python, PowerShell, HTML reports |
 | [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) | Premium reader, writer, and admin demo for a polished creative-product workflow. | Full-stack product demo |
 | [FullTank](https://github.com/OnithaPerera/FullTank) | Crowdsourced fuel availability and queue visibility for Sri Lanka. | Next.js, Supabase, maps |
