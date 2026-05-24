@@ -4,10 +4,10 @@
 
 **AI and data product builder from Colombo, Sri Lanka.**
 
-Building practical intelligence systems, automation tools, and full-stack products with Ardeno Studio.
+Building practical intelligence systems, automation tools, client websites, and full-stack products with Ardeno Studio.
 
 <p>
-  <a href="https://github.com/ArdenoStudio"><img alt="Ardeno Studio" src="https://img.shields.io/badge/Ardeno%20Studio-product%20lab-111827?style=for-the-badge" /></a>
+  <a href="https://github.com/ArdenoStudio"><img alt="Ardeno Studio" src="https://img.shields.io/badge/Ardeno%20Studio-web%20studio%20%2B%20product%20lab-111827?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/suvenseoras/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-suvenseoras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/SuvenSeo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-SuvenSeo-181717?style=for-the-badge&logo=github" /></a>
 </p>
@@ -16,15 +16,31 @@ Building practical intelligence systems, automation tools, and full-stack produc
 
 I work on deployed, Sri Lanka-local products where the hard part is not just the UI. The work usually includes scraping messy sources, shaping data into useful APIs, building dashboards people can actually use, and adding automation that stays auditable.
 
-Currently studying **Artificial Intelligence and Data Science at IIT**, while building production-minded products across market intelligence, AI workflows, developer tooling, and startup demos.
+Currently studying **Artificial Intelligence and Data Science at IIT**, while running Ardeno Studio across web design, client demos, market intelligence, AI workflows, developer tooling, and startup products.
 
 ## Build Map
 
 | Domain | Systems | What they show |
 | --- | --- | --- |
+| Web studio | [Ardeno Studio](https://ardeno-studio-website.vercel.app) · [Cafe](https://ardeno-cinnamon-cafe.vercel.app) · [Fitness](https://ardeno-lanka-fitness.vercel.app) · [Automotive](https://ardeno-lanka-motion.vercel.app) · [Luxury](https://ardeno-luxe-lanka.vercel.app) · [Restaurant](https://ardeno-urban-kitchen.vercel.app) · [Private Jet](https://global-jet-concierge.vercel.app) | Client-ready websites, premium landing pages, niche demo builds, responsive UI, brand direction, and fast deployment workflows. |
 | Market intelligence | [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) · [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) · [FoodLK](https://github.com/SuvenSeo/Food-Platform) · [Octane](https://github.com/ArdenoStudio/octane) · [Ariva](https://github.com/ArdenoStudio/life-platform) | Scrapers, normalization, pricing logic, trend dashboards, public APIs, and live data products for local markets. |
 | Finance and operations | [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) · [Seylan uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) · [SEOS](https://github.com/SuvenSeo/SEO-OS) | FastAPI/Next.js systems, AI assistants, operational dashboards, uptime monitoring, approval gates, and scheduled automations. |
 | Developer and product tools | [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) · [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) · [FullTank](https://github.com/OnithaPerera/FullTank) | Local-first analytics, polished product demos, and collaborative builds that move from concept to usable interface. |
+
+## Ardeno Studio
+
+I run **Ardeno Studio** as a web agency and product lab. The studio builds premium websites for client-facing businesses, then uses the same execution system to ship data products, automations, and AI-enabled platforms.
+
+| Demo | Live site |
+| --- | --- |
+| Cafe | [ardeno-cinnamon-cafe.vercel.app](https://ardeno-cinnamon-cafe.vercel.app) |
+| Fitness | [ardeno-lanka-fitness.vercel.app](https://ardeno-lanka-fitness.vercel.app) |
+| Automotive | [ardeno-lanka-motion.vercel.app](https://ardeno-lanka-motion.vercel.app) |
+| Luxury | [ardeno-luxe-lanka.vercel.app](https://ardeno-luxe-lanka.vercel.app) |
+| Restaurant | [ardeno-urban-kitchen.vercel.app](https://ardeno-urban-kitchen.vercel.app) |
+| Private aviation | [global-jet-concierge.vercel.app](https://global-jet-concierge.vercel.app) |
+| Studio site | [ardeno-studio-website.vercel.app](https://ardeno-studio-website.vercel.app) |
+| Contact | [ceynk.link/ardenostudio](https://ceynk.link/ardenostudio) |
 
 ## Selected Systems
 
