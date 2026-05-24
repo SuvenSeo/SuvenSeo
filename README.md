@@ -1,83 +1,115 @@
+<p align="center">
+  <img src="./assets/suven-command-center.svg" alt="Suven Seoras - Ardeno Studio command center" width="100%" />
+</p>
+
 <div align="center">
 
-# Suven Seoras
-
-**AI and data product builder from Colombo, Sri Lanka.**
-
-Building practical intelligence systems, automation tools, client websites, and full-stack products with Ardeno Studio.
-
-<p>
   <a href="https://github.com/ArdenoStudio"><img alt="Ardeno Studio" src="https://img.shields.io/badge/Ardeno%20Studio-web%20studio%20%2B%20product%20lab-111827?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/suvenseoras/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-suvenseoras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SuvenSeo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-SuvenSeo-181717?style=for-the-badge&logo=github" /></a>
-</p>
+  <a href="https://ardeno-studio-website.vercel.app/"><img alt="Studio site" src="https://img.shields.io/badge/Studio-ardenostudio-38BDF8?style=for-the-badge&logo=vercel&logoColor=111827" /></a>
+  <a href="https://ceynk.link/ardenostudio"><img alt="Contact Ardeno Studio" src="https://img.shields.io/badge/Contact-ceynk.link%2Fardenostudio-34D399?style=for-the-badge" /></a>
+
+  <br />
+  <br />
+
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=940&lines=Co-founder+%40ArdenoStudio+with+Ovindu;Building+premium+websites+and+AI+products;Shipping+Sri+Lanka+market-intelligence+systems;Turning+ideas+into+live+products" />
 
 </div>
 
-I work on deployed, Sri Lanka-local products where the hard part is not just the UI. The work usually includes scraping messy sources, shaping data into useful APIs, building dashboards people can actually use, and adding automation that stays auditable.
+## Signal
 
-Currently studying **Artificial Intelligence and Data Science at IIT**, while co-running Ardeno Studio across web design, client demos, market intelligence, AI workflows, developer tooling, and startup products.
+I am **Suven Seoras**, an **Artificial Intelligence and Data Science** student from Colombo and co-founder of **Ardeno Studio** with **Ovindu**. I build across two lanes: polished client-facing websites for businesses, and deeper software systems that turn messy local data into usable products.
 
-## Build Map
+That mix is intentional. A good product needs taste, deployment speed, reliable data, and enough engineering discipline to survive outside a demo.
 
-| Domain | Systems | What they show |
-| --- | --- | --- |
-| Web studio | [Ardeno Studio](https://ardeno-studio-website.vercel.app) · [Cafe](https://ardeno-cinnamon-cafe.vercel.app) · [Fitness](https://ardeno-lanka-fitness.vercel.app) · [Automotive](https://ardeno-lanka-motion.vercel.app) · [Luxury](https://ardeno-luxe-lanka.vercel.app) · [Restaurant](https://ardeno-urban-kitchen.vercel.app) · [Private Jet](https://global-jet-concierge.vercel.app) | Client-ready websites, premium landing pages, niche demo builds, responsive UI, brand direction, and fast deployment workflows. |
-| Market intelligence | [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) · [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) · [FoodLK](https://github.com/SuvenSeo/Food-Platform) · [Octane](https://github.com/ArdenoStudio/octane) · [Ariva](https://github.com/ArdenoStudio/life-platform) | Scrapers, normalization, pricing logic, trend dashboards, public APIs, and live data products for local markets. |
-| Finance and operations | [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) · [Seylan uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) · [SEOS](https://github.com/SuvenSeo/SEO-OS) | FastAPI/Next.js systems, AI assistants, operational dashboards, uptime monitoring, approval gates, and scheduled automations. |
-| Developer and product tools | [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) · [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) · [FullTank](https://github.com/OnithaPerera/FullTank) | Local-first analytics, polished product demos, and collaborative builds that move from concept to usable interface. |
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Studio lane</strong><br />
+      Premium websites, landing pages, brand-led demo builds, and client-ready web experiences through Ardeno Studio.
+    </td>
+    <td width="33%">
+      <strong>Systems lane</strong><br />
+      Sri Lanka market intelligence platforms for fuel, vehicles, property, food, and living-cost signals.
+    </td>
+    <td width="33%">
+      <strong>AI lane</strong><br />
+      AI assistants, automation workflows, local tools, dashboards, and product experiments with real guardrails.
+    </td>
+  </tr>
+</table>
 
 ## Ardeno Studio
 
-I co-founded **Ardeno Studio** with Ovindu and help run it as a web agency and product lab. The studio builds premium websites for client-facing businesses, then uses the same execution system to ship data products, automations, and AI-enabled platforms.
+Ardeno Studio is the web agency and product lab I co-founded with Ovindu. We build websites for businesses, then use the same shipping engine to create larger software products and AI-enabled platforms.
 
-| Demo | Live site |
-| --- | --- |
-| Cafe | [ardeno-cinnamon-cafe.vercel.app](https://ardeno-cinnamon-cafe.vercel.app) |
-| Fitness | [ardeno-lanka-fitness.vercel.app](https://ardeno-lanka-fitness.vercel.app) |
-| Automotive | [ardeno-lanka-motion.vercel.app](https://ardeno-lanka-motion.vercel.app) |
-| Luxury | [ardeno-luxe-lanka.vercel.app](https://ardeno-luxe-lanka.vercel.app) |
-| Restaurant | [ardeno-urban-kitchen.vercel.app](https://ardeno-urban-kitchen.vercel.app) |
-| Private aviation | [global-jet-concierge.vercel.app](https://global-jet-concierge.vercel.app) |
-| Studio site | [ardeno-studio-website.vercel.app](https://ardeno-studio-website.vercel.app) |
-| Contact | [ceynk.link/ardenostudio](https://ceynk.link/ardenostudio) |
+| Demo | Type | Live |
+| --- | --- | --- |
+| Cinnamon Cafe | Cafe / hospitality | [ardeno-cinnamon-cafe.vercel.app](https://ardeno-cinnamon-cafe.vercel.app) |
+| Lanka Fitness | Fitness studio | [ardeno-lanka-fitness.vercel.app](https://ardeno-lanka-fitness.vercel.app) |
+| Lanka Motion | Automotive / motion brand | [ardeno-lanka-motion.vercel.app](https://ardeno-lanka-motion.vercel.app) |
+| Luxe Lanka | Luxury beauty brand | [ardeno-luxe-lanka.vercel.app](https://ardeno-luxe-lanka.vercel.app) |
+| Urban Kitchen | Restaurant | [ardeno-urban-kitchen.vercel.app](https://ardeno-urban-kitchen.vercel.app) |
+| Global Jet Concierge | Private aviation | [global-jet-concierge.vercel.app](https://global-jet-concierge.vercel.app) |
+| Ardeno Studio | Agency site | [ardeno-studio-website.vercel.app](https://ardeno-studio-website.vercel.app) |
+| Contact | Client intake | [ceynk.link/ardenostudio](https://ceynk.link/ardenostudio) |
+
+## Product Network
+
+```mermaid
+flowchart LR
+    A["Ardeno Studio"] --> B["Websites"]
+    A --> C["Market Intelligence"]
+    A --> D["AI + Automation"]
+    B --> B1["Cafe / Fitness / Automotive / Luxury / Restaurant / Aviation"]
+    C --> C1["Octane"]
+    C --> C2["PropertyLK"]
+    C --> C3["AutoLens LK"]
+    C --> C4["FoodLK"]
+    C --> C5["Ariva"]
+    D --> D1["Seylan Hub"]
+    D --> D2["SEOS"]
+    D --> D3["Codex Usage Tracker"]
+```
 
 ## Selected Systems
 
-| Project | Role / contribution | Stack |
+| System | What it does | Stack / angle |
 | --- | --- | --- |
-| [Octane](https://github.com/ArdenoStudio/octane) | Fuel price intelligence for Sri Lanka with daily price tracking, history, alerts, widgets, and an open API. | FastAPI, React, Vite, PostgreSQL, Fly.io, Vercel |
-| [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | Backend lead for a 24-hour buildathon banking demo covering wallets, assistant flows, loan health, and SME bookkeeping. | FastAPI, Supabase, Groq, ElevenLabs, Next.js |
-| [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Real estate intelligence platform with multi-source scraping, geocoding, trend charts, heatmaps, and comparable-based deal scoring. | FastAPI, PostgreSQL, Playwright, React, Vite |
-| [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) | Vehicle price intelligence platform for Sri Lankan listings with backend APIs and analytics surfaces. | Python, FastAPI, React, TypeScript, Supabase |
-| [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with dashboard workflows, Telegram automation, memory, tools, and proactive routines. | Next.js, Supabase, Groq, Gemini, Telegram |
-| [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Local analytics tool for Codex token usage, estimated credits, project breakdowns, reports, and WakaTime AI coding time. | Python, PowerShell, HTML reports |
+| [Octane](https://github.com/ArdenoStudio/octane) | Fuel price intelligence for Sri Lanka with price history, alerts, widgets, and an open API. | FastAPI, React, PostgreSQL, Fly.io, Vercel |
+| [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Real estate intelligence with scraping, geocoding, heatmaps, trend charts, and deal scoring. | FastAPI, PostgreSQL, Playwright, React |
+| [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) | Vehicle price intelligence for Sri Lankan listings with analytics surfaces and backend APIs. | Python, FastAPI, React, TypeScript, Supabase |
+| [FoodLK](https://github.com/SuvenSeo/Food-Platform) | Food price platform for Sri Lankan market signals and source tracking. | Data ingestion, dashboards, local price intelligence |
+| [Ariva](https://github.com/ArdenoStudio/life-platform) | Living-intelligence dashboard connecting food, fuel, property, and vehicle signals. | Python, market intelligence, product integration |
+| [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | Banking buildathon system with wallets, assistant flows, loan health, and SME bookkeeping. | FastAPI, Supabase, Groq, ElevenLabs, Next.js |
+| [Seylan Uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) | Public uptime and status history for Seylan Hub. | Upptime, GitHub Actions |
+| [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with memory, tools, Telegram automation, and dashboard workflows. | Next.js, Supabase, Groq, Gemini |
+| [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Local analytics for Codex usage, token estimates, project breakdowns, and reports. | Python, PowerShell, HTML reports |
+| [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) | Premium reader, writer, and admin demo for a polished creative-product workflow. | Full-stack product demo |
+| [FullTank](https://github.com/OnithaPerera/FullTank) | Crowdsourced fuel availability and queue visibility for Sri Lanka. | Next.js, Supabase, maps |
 
-## How I Build
+## Build Style
 
-- Product first: dashboards, workflows, and APIs should exist for a real use case, not just a screenshot.
-- Data-aware: I care about freshness, source transparency, pipeline health, and failure modes.
-- AI with control: assistants and automations need approvals, logs, suppression rules, and graceful fallback behavior.
-- Runtime truth: I prefer build checks, browser checks, smoke tests, and deployed URLs over vague "it should work" claims.
+| Principle | How it shows up |
+| --- | --- |
+| Ship the real thing | I prefer deployed URLs, working dashboards, smoke tests, and browser checks over vague claims. |
+| Design still matters | Even technical products need clear hierarchy, fast scanning, and a UI that earns trust. |
+| Data needs receipts | Freshness, source visibility, failures, and update paths matter as much as charts. |
+| AI needs control | Approvals, logs, suppression rules, and graceful fallbacks make automation usable. |
+| Local context wins | I like building for Sri Lanka-specific problems where generic software misses the details. |
 
-## Tools I Reach For
+## Stack
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=0b1f16" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<p align="center">
+  <img alt="Core stack" src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,vite,tailwind,fastapi,supabase,postgres,vercel,githubactions,figma,git,vscode&theme=dark" />
 </p>
 
-## Live Links
+<p align="center">
+  <img alt="Suven GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=SuvenSeo&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=38BDF8&icon_color=34D399&text_color=E5E7EB" />
+  <img alt="Suven top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvenSeo&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" />
+</p>
+
+## Live Board
 
 | Product | Live |
 | --- | --- |
@@ -90,6 +122,9 @@ I co-founded **Ardeno Studio** with Ovindu and help run it as a web agency and p
 
 ## Connect
 
-- GitHub: [@SuvenSeo](https://github.com/SuvenSeo)
-- Studio: [@ArdenoStudio](https://github.com/ArdenoStudio)
-- LinkedIn: [suvenseoras](https://www.linkedin.com/in/suvenseoras/)
+| Channel | Link |
+| --- | --- |
+| GitHub | [@SuvenSeo](https://github.com/SuvenSeo) |
+| Studio | [@ArdenoStudio](https://github.com/ArdenoStudio) |
+| LinkedIn | [suvenseoras](https://www.linkedin.com/in/suvenseoras/) |
+| Ardeno contact | [ceynk.link/ardenostudio](https://ceynk.link/ardenostudio) |
