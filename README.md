@@ -71,6 +71,11 @@ flowchart LR
     D --> D2["SEOS"]
     D --> D3["Codex Usage Tracker"]
     D --> D4["AgentGuard"]
+    D --> D5["Secure Review Action"]
+    D --> D6["SprintForm AI"]
+    D --> D7["FinTech Fraud Lab"]
+    D --> D8["Lanka NLP Bench"]
+    D --> D9["Ride Pilot"]
 ```
 
 ## Selected Systems
@@ -86,7 +91,12 @@ flowchart LR
 | [Seylan Uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) | Public uptime and status history for Seylan Hub. | Upptime, GitHub Actions |
 | [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with memory, tools, Telegram automation, and dashboard workflows. | Next.js, Supabase, Groq, Gemini |
 | [AgentGuard](https://github.com/SuvenSeo/agentguard) | Local-first security preflight for AI-agent repos, MCP configs, and developer workstations. | Python CLI, static analysis, SARIF, GitHub Actions |
+| [Secure Review Action](https://github.com/SuvenSeo/secure-review-action) | Security-focused deterministic code review GitHub Action with PR comments and SARIF output. | TypeScript, GitHub Actions, Semgrep, SARIF |
 | [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Local analytics for Codex usage, token estimates, project breakdowns, and reports. | Python, PowerShell, HTML reports |
+| [FinTech Fraud Lab](https://github.com/SuvenSeo/fintech-fraud-lab) | Synthetic real-time fraud detection lab with streaming-ready pipeline, ML scoring, and investigator dashboard. | Python, machine learning, analytics, streaming design |
+| [SprintForm AI](https://github.com/SuvenSeo/sprintform-ai) | Computer-vision workstation for sprint and jump mechanics analysis. | TypeScript, video analysis, sports tech, biomechanics |
+| [Lanka NLP Bench](https://github.com/SuvenSeo/lanka-nlp-bench) | Reproducible Sinhala and Tamil NLP benchmark suite with datasets, data cards, baselines, and evaluation scripts. | Python, NLP, Sinhala, Tamil, benchmark |
+| [Ride Pilot](https://github.com/SuvenSeo/ride-pilot) | RidePilotLK Android app monorepo with project docs and Automata reference materials. | Kotlin, Android, Gradle, mobile app |
 | [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) | Premium reader, writer, and admin demo for a polished creative-product workflow. | Full-stack product demo |
 | [FullTank](https://github.com/OnithaPerera/FullTank) | Crowdsourced fuel availability and queue visibility for Sri Lanka. | Next.js, Supabase, maps |
 
@@ -120,6 +130,8 @@ flowchart LR
 | PropertyLK | [propertylk-one.vercel.app](https://propertylk-one.vercel.app/) |
 | AutoLens LK | [vehicle-platform-one.vercel.app](https://vehicle-platform-one.vercel.app/) |
 | FoodLK | [food-platform-one.vercel.app](https://food-platform-one.vercel.app) |
+| Secure Review Action | [secure-review-action.vercel.app](https://secure-review-action.vercel.app) |
+| Lanka NLP Bench | [lanka-nlp-bench.vercel.app](https://lanka-nlp-bench.vercel.app) |
 | InkFlow Studio Demo | [inkflow-studio-demo.vercel.app](https://inkflow-studio-demo.vercel.app) |
 
 ## Connect
