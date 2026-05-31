@@ -56,27 +56,9 @@ Ardeno Studio is the web agency and product lab where I work as co-founder. We b
 
 ## Product Network
 
-```mermaid
-flowchart LR
-    A["Ardeno Studio"] --> B["Websites"]
-    A --> C["Market Intelligence"]
-    A --> D["AI + Automation"]
-    B --> B1["Cafe / Fitness / Automotive / Luxury / Restaurant / Aviation"]
-    C --> C1["Octane"]
-    C --> C2["PropertyLK"]
-    C --> C3["AutoLens LK"]
-    C --> C4["FoodLK"]
-    C --> C5["Ariva"]
-    D --> D1["Seylan Hub"]
-    D --> D2["SEOS"]
-    D --> D3["Codex Usage Tracker"]
-    D --> D4["AgentGuard"]
-    D --> D5["Secure Review Action"]
-    D --> D6["SprintForm AI"]
-    D --> D7["FinTech Fraud Lab"]
-    D --> D8["Lanka NLP Bench"]
-    D --> D9["Ride Pilot"]
-```
+<p align="center">
+  <img src="./assets/product-network.svg" alt="Ardeno Studio product network map" width="100%" />
+</p>
 
 ## Selected Systems
 

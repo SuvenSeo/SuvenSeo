@@ -1,0 +1,169 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ardeno Studio product network</title>
+  <desc id="desc">A dark visual product network map showing Ardeno Studio connected to web studio work, Sri Lanka market intelligence systems, and AI automation products.</desc>
+  <style>
+    .sans { font-family: "Inter", "Segoe UI", Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", "Cascadia Mono", "Consolas", monospace; }
+    .title { font-size: 42px; font-weight: 800; letter-spacing: 0; }
+    .subtitle { font-size: 16px; font-weight: 500; letter-spacing: 0; }
+    .lane-title { font-size: 20px; font-weight: 800; letter-spacing: 0; }
+    .body { font-size: 14px; font-weight: 500; letter-spacing: 0; }
+    .tiny { font-size: 12px; font-weight: 700; letter-spacing: .6px; }
+    .chip { font-size: 13px; font-weight: 700; letter-spacing: 0; }
+    .white { fill: #f8fafc; }
+    .muted { fill: #94a3b8; }
+    .soft { fill: #cbd5e1; }
+    .cyan { fill: #38bdf8; }
+    .green { fill: #34d399; }
+    .amber { fill: #f59e0b; }
+    .rose { fill: #fb7185; }
+    .panel { fill: rgba(15, 23, 42, .82); stroke: rgba(148, 163, 184, .20); stroke-width: 1; }
+    .core { fill: rgba(2, 6, 23, .90); stroke: rgba(56, 189, 248, .55); stroke-width: 1.5; }
+    .lane-web { fill: rgba(8, 47, 73, .50); stroke: rgba(56, 189, 248, .50); stroke-width: 1.2; }
+    .lane-data { fill: rgba(6, 78, 59, .42); stroke: rgba(52, 211, 153, .48); stroke-width: 1.2; }
+    .lane-ai { fill: rgba(76, 29, 149, .34); stroke: rgba(251, 113, 133, .45); stroke-width: 1.2; }
+    .chip-bg { fill: rgba(15, 23, 42, .86); stroke: rgba(148, 163, 184, .20); stroke-width: 1; }
+    .line { stroke: rgba(203, 213, 225, .40); stroke-width: 2; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset=".45" stop-color="#07111f"/>
+      <stop offset=".75" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e1020"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="86" y1="105" x2="1118" y2="668" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset=".50" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 162) rotate(44) scale(290 220)">
+      <stop stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(945 594) rotate(40) scale(360 250)">
+      <stop stop-color="#fb7185" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#fb7185" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="rgba(148,163,184,.075)" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L10 5L0 10Z" fill="rgba(203, 213, 225, .72)"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="760" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="760" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="760" rx="28" fill="url(#glowB)"/>
+  <rect x="36" y="36" width="1128" height="688" rx="26" class="panel"/>
+  <path d="M628 116H1122" stroke="url(#rail)" stroke-width="2.5" opacity=".82"/>
+
+  <g transform="translate(78 64)">
+    <text x="0" y="0" dominant-baseline="hanging" class="mono tiny cyan">PRODUCT NETWORK</text>
+    <text x="0" y="28" dominant-baseline="hanging" class="sans title white">Ardeno Studio operating map</text>
+    <text x="0" y="82" dominant-baseline="hanging" class="sans subtitle muted">Websites, local market-intelligence products, AI tooling, and automation systems connected through one shipping engine.</text>
+  </g>
+
+  <g transform="translate(72 170)">
+    <rect width="300" height="452" rx="24" class="core"/>
+    <text x="30" y="42" class="mono tiny cyan">CORE</text>
+    <text x="30" y="82" class="sans title white" style="font-size:34px">Ardeno</text>
+    <text x="30" y="121" class="sans title white" style="font-size:34px">Studio</text>
+    <text x="30" y="166" class="sans body soft">Co-founder-led web studio and</text>
+    <text x="30" y="190" class="sans body soft">product lab for fast, polished,</text>
+    <text x="30" y="214" class="sans body soft">locally aware software systems.</text>
+
+    <g transform="translate(30 260)">
+      <rect width="112" height="48" rx="14" fill="rgba(56,189,248,.13)" stroke="rgba(56,189,248,.38)"/>
+      <text x="18" y="30" class="mono chip cyan">WEB</text>
+      <rect x="128" width="112" height="48" rx="14" fill="rgba(52,211,153,.13)" stroke="rgba(52,211,153,.36)"/>
+      <text x="146" y="30" class="mono chip green">DATA</text>
+      <rect y="64" width="112" height="48" rx="14" fill="rgba(245,158,11,.13)" stroke="rgba(245,158,11,.38)"/>
+      <text x="18" y="94" class="mono chip amber">OPS</text>
+      <rect x="128" y="64" width="112" height="48" rx="14" fill="rgba(251,113,133,.13)" stroke="rgba(251,113,133,.36)"/>
+      <text x="146" y="94" class="mono chip rose">AI</text>
+    </g>
+
+    <text x="30" y="406" class="mono tiny muted">LIVE BUILDS + PUBLIC REPOS</text>
+  </g>
+
+  <path d="M372 254C432 254 444 218 492 218" class="line" marker-end="url(#arrow)"/>
+  <path d="M372 396C426 396 444 396 492 396" class="line" marker-end="url(#arrow)"/>
+  <path d="M372 524C432 524 446 574 492 574" class="line" marker-end="url(#arrow)"/>
+
+  <g transform="translate(492 162)">
+    <rect width="636" height="140" rx="22" class="lane-web"/>
+    <circle cx="36" cy="40" r="12" fill="rgba(56,189,248,.22)" stroke="rgba(56,189,248,.75)"/>
+    <path d="M30 40H42M36 34V46" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+    <text x="64" y="45" class="sans lane-title white">Web Studio</text>
+    <text x="64" y="72" class="sans body soft">Premium websites and brand-led demos that prove the studio can ship polished client work.</text>
+    <g transform="translate(64 94)">
+      <rect width="98" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="20" class="mono chip cyan">Cafe</text>
+      <rect x="110" width="108" height="30" rx="10" class="chip-bg"/>
+      <text x="126" y="20" class="mono chip cyan">Fitness</text>
+      <rect x="230" width="126" height="30" rx="10" class="chip-bg"/>
+      <text x="246" y="20" class="mono chip cyan">Automotive</text>
+      <rect x="368" width="100" height="30" rx="10" class="chip-bg"/>
+      <text x="384" y="20" class="mono chip cyan">Luxury</text>
+      <rect x="480" width="92" height="30" rx="10" class="chip-bg"/>
+      <text x="496" y="20" class="mono chip cyan">Aviation</text>
+    </g>
+  </g>
+
+  <g transform="translate(492 326)">
+    <rect width="636" height="170" rx="22" class="lane-data"/>
+    <circle cx="36" cy="40" r="12" fill="rgba(52,211,153,.20)" stroke="rgba(52,211,153,.72)"/>
+    <path d="M29 43L35 36L41 41L48 32" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="64" y="45" class="sans lane-title white">Market Intelligence</text>
+    <text x="64" y="72" class="sans body soft">Sri Lanka-specific platforms for prices, listings, source freshness, and decision support.</text>
+    <g transform="translate(64 96)">
+      <rect width="96" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="20" class="mono chip green">Octane</text>
+      <rect x="108" width="116" height="30" rx="10" class="chip-bg"/>
+      <text x="124" y="20" class="mono chip green">PropertyLK</text>
+      <rect x="236" width="126" height="30" rx="10" class="chip-bg"/>
+      <text x="252" y="20" class="mono chip green">AutoLens LK</text>
+      <rect x="374" width="96" height="30" rx="10" class="chip-bg"/>
+      <text x="390" y="20" class="mono chip green">FoodLK</text>
+      <rect x="482" width="86" height="30" rx="10" class="chip-bg"/>
+      <text x="498" y="20" class="mono chip green">Ariva</text>
+      <rect y="42" width="104" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="62" class="mono chip green">FullTank</text>
+    </g>
+  </g>
+
+  <g transform="translate(492 520)">
+    <rect width="636" height="176" rx="22" class="lane-ai"/>
+    <circle cx="36" cy="40" r="12" fill="rgba(251,113,133,.18)" stroke="rgba(251,113,133,.72)"/>
+    <path d="M31 40H41M36 35V45M45 35L49 31M45 45L49 49M27 35L23 31M27 45L23 49" stroke="#fb7185" stroke-width="2" stroke-linecap="round"/>
+    <text x="64" y="45" class="sans lane-title white">AI + Automation</text>
+    <text x="64" y="72" class="sans body soft">Agent tooling, workflow systems, review automation, local analytics, and focused AI labs.</text>
+    <g transform="translate(64 96)">
+      <rect width="112" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="20" class="mono chip rose">Seylan Hub</text>
+      <rect x="124" width="76" height="30" rx="10" class="chip-bg"/>
+      <text x="140" y="20" class="mono chip rose">SEOS</text>
+      <rect x="212" width="132" height="30" rx="10" class="chip-bg"/>
+      <text x="228" y="20" class="mono chip rose">AgentGuard</text>
+      <rect x="356" width="156" height="30" rx="10" class="chip-bg"/>
+      <text x="372" y="20" class="mono chip rose">Secure Review</text>
+      <rect y="42" width="104" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="62" class="mono chip rose">Codex</text>
+      <rect x="116" y="42" width="120" height="30" rx="10" class="chip-bg"/>
+      <text x="132" y="62" class="mono chip rose">Fraud Lab</text>
+      <rect x="248" y="42" width="128" height="30" rx="10" class="chip-bg"/>
+      <text x="264" y="62" class="mono chip rose">SprintForm</text>
+      <rect x="388" y="42" width="124" height="30" rx="10" class="chip-bg"/>
+      <text x="404" y="62" class="mono chip rose">NLP Bench</text>
+    </g>
+  </g>
+
+  <g transform="translate(82 708)">
+    <rect width="1036" height="38" rx="14" fill="rgba(2,6,23,.56)" stroke="rgba(148,163,184,.16)"/>
+    <text x="24" y="25" class="mono tiny muted">READ THE TABLE BELOW FOR REPO LINKS, LIVE URLS, STACK NOTES, AND WHAT EACH PRODUCT DOES.</text>
+    <text x="762" y="25" class="mono tiny cyan">SHIP FAST. VERIFY LIVE. KEEP RECEIPTS.</text>
+  </g>
+</svg>
