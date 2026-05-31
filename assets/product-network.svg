@@ -1,15 +1,15 @@
-<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Suven Seoras product network</title>
   <desc id="desc">A dark visual product network map separating Ardeno Studio work from Suven Seoras personal AI, automation, security, and research projects.</desc>
   <style>
     .sans { font-family: "Inter", "Segoe UI", Arial, sans-serif; }
     .mono { font-family: "SFMono-Regular", "Cascadia Mono", "Consolas", monospace; }
-    .title { font-size: 42px; font-weight: 800; letter-spacing: 0; }
-    .subtitle { font-size: 16px; font-weight: 500; letter-spacing: 0; }
-    .lane-title { font-size: 20px; font-weight: 800; letter-spacing: 0; }
-    .body { font-size: 14px; font-weight: 500; letter-spacing: 0; }
-    .tiny { font-size: 12px; font-weight: 700; letter-spacing: .6px; }
-    .chip { font-size: 13px; font-weight: 700; letter-spacing: 0; }
+    .title { font-size: 38px; font-weight: 800; letter-spacing: 0; }
+    .subtitle { font-size: 15px; font-weight: 500; letter-spacing: 0; }
+    .lane-title { font-size: 19px; font-weight: 800; letter-spacing: 0; }
+    .body { font-size: 13px; font-weight: 500; letter-spacing: 0; }
+    .tiny { font-size: 10.5px; font-weight: 700; letter-spacing: .45px; }
+    .chip { font-size: 11.5px; font-weight: 700; letter-spacing: 0; }
     .white { fill: #f8fafc; }
     .muted { fill: #94a3b8; }
     .soft { fill: #cbd5e1; }
@@ -26,7 +26,7 @@
     .line { stroke: rgba(203, 213, 225, .40); stroke-width: 2; }
   </style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="820" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
       <stop offset=".45" stop-color="#07111f"/>
       <stop offset=".75" stop-color="#0f172a"/>
@@ -53,24 +53,24 @@
     </marker>
   </defs>
 
-  <rect width="1200" height="760" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="760" rx="28" fill="url(#grid)"/>
-  <rect width="1200" height="760" rx="28" fill="url(#glowA)"/>
-  <rect width="1200" height="760" rx="28" fill="url(#glowB)"/>
-  <rect x="36" y="36" width="1128" height="688" rx="26" class="panel"/>
-  <path d="M628 116H1122" stroke="url(#rail)" stroke-width="2.5" opacity=".82"/>
+  <rect width="1200" height="820" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="820" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="820" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="820" rx="28" fill="url(#glowB)"/>
+  <rect x="36" y="36" width="1128" height="748" rx="26" class="panel"/>
+  <path d="M572 116H1122" stroke="url(#rail)" stroke-width="2.5" opacity=".82"/>
 
   <g transform="translate(78 64)">
     <text x="0" y="0" dominant-baseline="hanging" class="mono tiny cyan">PRODUCT NETWORK</text>
-    <text x="0" y="28" dominant-baseline="hanging" class="sans title white">Suven product network</text>
-    <text x="0" y="82" dominant-baseline="hanging" class="sans subtitle muted">Ardeno Studio work on one side, personal AI and automation projects on the other.</text>
+    <text x="0" y="28" dominant-baseline="hanging" class="sans title white">Product network</text>
+    <text x="0" y="80" dominant-baseline="hanging" class="sans subtitle muted">Ardeno Studio work is kept separate from personal AI, tooling, and research projects.</text>
   </g>
 
   <g transform="translate(72 170)">
     <rect width="300" height="452" rx="24" class="core"/>
     <text x="30" y="42" class="mono tiny cyan">PROFILE</text>
     <text x="30" y="82" class="sans title white" style="font-size:34px">Suven</text>
-    <text x="30" y="121" class="sans title white" style="font-size:34px">Seoras</text>
+    <text x="30" y="128" class="sans title white" style="font-size:34px">Seoras</text>
     <text x="30" y="166" class="sans body soft">Co-founder at Ardeno Studio,</text>
     <text x="30" y="190" class="sans body soft">with separate personal labs for</text>
     <text x="30" y="214" class="sans body soft">AI, automation, and research.</text>
@@ -86,7 +86,7 @@
       <text x="146" y="94" class="mono chip rose">LABS</text>
     </g>
 
-    <text x="30" y="406" class="mono tiny muted">PUBLIC PORTFOLIO, SPLIT BY CONTEXT</text>
+    <text x="30" y="406" class="mono tiny muted">PUBLIC PORTFOLIO BY CONTEXT</text>
   </g>
 
   <path d="M372 254C432 254 444 218 492 218" class="line" marker-end="url(#arrow)"/>
@@ -98,7 +98,7 @@
     <circle cx="36" cy="40" r="12" fill="rgba(56,189,248,.22)" stroke="rgba(56,189,248,.75)"/>
     <path d="M30 40H42M36 34V46" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
     <text x="64" y="45" class="sans lane-title white">Ardeno Web Studio</text>
-    <text x="64" y="72" class="sans body soft">Premium websites and brand-led demos that prove the studio can ship polished client work.</text>
+    <text x="64" y="72" class="sans body soft">Premium sites and demos showing polished Ardeno client work.</text>
     <g transform="translate(64 94)">
       <rect width="98" height="30" rx="10" class="chip-bg"/>
       <text x="16" y="20" class="mono chip cyan">Cafe</text>
@@ -118,7 +118,7 @@
     <circle cx="36" cy="40" r="12" fill="rgba(52,211,153,.20)" stroke="rgba(52,211,153,.72)"/>
     <path d="M29 43L35 36L41 41L48 32" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="64" y="45" class="sans lane-title white">Market Intelligence</text>
-    <text x="64" y="72" class="sans body soft">Sri Lanka-specific platforms for prices, listings, source freshness, and decision support.</text>
+    <text x="64" y="72" class="sans body soft">Sri Lanka platforms for prices, listings, freshness, and decisions.</text>
     <g transform="translate(64 96)">
       <rect width="96" height="30" rx="10" class="chip-bg"/>
       <text x="16" y="20" class="mono chip green">Octane</text>
@@ -139,8 +139,8 @@
     <rect width="636" height="176" rx="22" class="lane-ai"/>
     <circle cx="36" cy="40" r="12" fill="rgba(251,113,133,.18)" stroke="rgba(251,113,133,.72)"/>
     <path d="M31 40H41M36 35V45M45 35L49 31M45 45L49 49M27 35L23 31M27 45L23 49" stroke="#fb7185" stroke-width="2" stroke-linecap="round"/>
-    <text x="64" y="45" class="sans lane-title white">Personal Labs + Tooling</text>
-    <text x="64" y="72" class="sans body soft">Personal AI, automation, security tooling, local analytics, research, and app experiments.</text>
+    <text x="64" y="45" class="sans lane-title white">Personal AI + Labs</text>
+    <text x="64" y="72" class="sans body soft">Agent tooling, security review, local analytics, and focused AI labs.</text>
     <g transform="translate(64 96)">
       <rect width="76" height="30" rx="10" class="chip-bg"/>
       <text x="16" y="20" class="mono chip rose">SEOS</text>
@@ -161,9 +161,9 @@
     </g>
   </g>
 
-  <g transform="translate(82 708)">
+  <g transform="translate(82 746)">
     <rect width="1036" height="38" rx="14" fill="rgba(2,6,23,.56)" stroke="rgba(148,163,184,.16)"/>
-    <text x="24" y="25" class="mono tiny muted">ARDENO STUDIO WORK AND PERSONAL PROJECTS ARE SEPARATED IN THE TABLE BELOW.</text>
-    <text x="746" y="25" class="mono tiny cyan">SHIP FAST. VERIFY LIVE. KEEP RECEIPTS.</text>
+    <text x="24" y="25" class="mono tiny muted">ARDENO WORK LEFT. PERSONAL LABS RIGHT.</text>
+    <text x="782" y="25" class="mono tiny cyan">SHIP. VERIFY. KEEP RECEIPTS.</text>
   </g>
 </svg>
