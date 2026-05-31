@@ -33,15 +33,15 @@ That mix is intentional. A good product needs taste, deployment speed, reliable 
       Sri Lanka market intelligence platforms for fuel, vehicles, property, food, and living-cost signals.
     </td>
     <td width="33%">
-      <strong>AI lane</strong><br />
-      AI assistants, automation workflows, local tools, dashboards, and product experiments with real guardrails.
+      <strong>Personal lab lane</strong><br />
+      Personal AI assistants, automation workflows, local tools, dashboards, and product experiments with real guardrails.
     </td>
   </tr>
 </table>
 
 ## Ardeno Studio
 
-Ardeno Studio is the web agency and product lab where I work as co-founder. We build websites for businesses, then use the same shipping engine to create larger software products and AI-enabled platforms.
+Ardeno Studio is the web agency and product lab where I work as co-founder. We build websites for businesses and market-intelligence products with a practical, shipping-focused approach. My AI, automation, security, and research projects are personal work, separate from Ardeno Studio.
 
 | Demo | Type | Live |
 | --- | --- | --- |
@@ -57,30 +57,30 @@ Ardeno Studio is the web agency and product lab where I work as co-founder. We b
 ## Product Network
 
 <p align="center">
-  <img src="./assets/product-network.svg" alt="Ardeno Studio product network map" width="100%" />
+  <img src="./assets/product-network.svg" alt="Suven Seoras product network map separating Ardeno Studio work from personal AI and automation projects" width="100%" />
 </p>
 
 ## Selected Systems
 
-| System | What it does | Stack / angle |
-| --- | --- | --- |
-| [Octane](https://github.com/ArdenoStudio/octane) | Fuel price intelligence for Sri Lanka with price history, alerts, widgets, and an open API. | FastAPI, React, PostgreSQL, Fly.io, Vercel |
-| [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Real estate intelligence with scraping, geocoding, heatmaps, trend charts, and deal scoring. | FastAPI, PostgreSQL, Playwright, React |
-| [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) | Vehicle price intelligence for Sri Lankan listings with analytics surfaces and backend APIs. | Python, FastAPI, React, TypeScript, Supabase |
-| [FoodLK](https://github.com/SuvenSeo/Food-Platform) | Food price platform for Sri Lankan market signals and source tracking. | Data ingestion, dashboards, local price intelligence |
-| [Ariva](https://github.com/ArdenoStudio/life-platform) | Living-intelligence dashboard connecting food, fuel, property, and vehicle signals. | Python, market intelligence, product integration |
-| [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | Banking buildathon system with wallets, assistant flows, loan health, and SME bookkeeping. | FastAPI, Supabase, Groq, ElevenLabs, Next.js |
-| [Seylan Uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) | Public uptime and status history for Seylan Hub. | Upptime, GitHub Actions |
-| [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI operating system with memory, tools, Telegram automation, and dashboard workflows. | Next.js, Supabase, Groq, Gemini |
-| [AgentGuard](https://github.com/SuvenSeo/agentguard) | Local-first security preflight for AI-agent repos, MCP configs, and developer workstations. | Python CLI, static analysis, SARIF, GitHub Actions |
-| [Secure Review Action](https://github.com/SuvenSeo/secure-review-action) | Security-focused deterministic code review GitHub Action with PR comments and SARIF output. | TypeScript, GitHub Actions, Semgrep, SARIF |
-| [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Local analytics for Codex usage, token estimates, project breakdowns, and reports. | Python, PowerShell, HTML reports |
-| [FinTech Fraud Lab](https://github.com/SuvenSeo/fintech-fraud-lab) | Synthetic real-time fraud detection lab with streaming-ready pipeline, ML scoring, and investigator dashboard. | Python, machine learning, analytics, streaming design |
-| [SprintForm AI](https://github.com/SuvenSeo/sprintform-ai) | Computer-vision workstation for sprint and jump mechanics analysis. | TypeScript, video analysis, sports tech, biomechanics |
-| [Lanka NLP Bench](https://github.com/SuvenSeo/lanka-nlp-bench) | Reproducible Sinhala and Tamil NLP benchmark suite with datasets, data cards, baselines, and evaluation scripts. | Python, NLP, Sinhala, Tamil, benchmark |
-| [Ride Pilot](https://github.com/SuvenSeo/ride-pilot) | RidePilotLK Android app monorepo with project docs and Automata reference materials. | Kotlin, Android, Gradle, mobile app |
-| [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) | Premium reader, writer, and admin demo for a polished creative-product workflow. | Full-stack product demo |
-| [FullTank](https://github.com/OnithaPerera/FullTank) | Crowdsourced fuel availability and queue visibility for Sri Lanka. | Next.js, Supabase, maps |
+| System | Lane | What it does | Stack / angle |
+| --- | --- | --- | --- |
+| [Octane](https://github.com/ArdenoStudio/octane) | Ardeno / market intelligence | Fuel price intelligence for Sri Lanka with price history, alerts, widgets, and an open API. | FastAPI, React, PostgreSQL, Fly.io, Vercel |
+| [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Ardeno / market intelligence | Real estate intelligence with scraping, geocoding, heatmaps, trend charts, and deal scoring. | FastAPI, PostgreSQL, Playwright, React |
+| [AutoLens LK](https://github.com/SuvenSeo/Vehicle-Platform) | Market intelligence | Vehicle price intelligence for Sri Lankan listings with analytics surfaces and backend APIs. | Python, FastAPI, React, TypeScript, Supabase |
+| [FoodLK](https://github.com/SuvenSeo/Food-Platform) | Market intelligence | Food price platform for Sri Lankan market signals and source tracking. | Data ingestion, dashboards, local price intelligence |
+| [Ariva](https://github.com/ArdenoStudio/life-platform) | Ardeno / market intelligence | Living-intelligence dashboard connecting food, fuel, property, and vehicle signals. | Python, market intelligence, product integration |
+| [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | Ardeno / buildathon | Banking buildathon system with wallets, assistant flows, loan health, and SME bookkeeping. | FastAPI, Supabase, Groq, ElevenLabs, Next.js |
+| [Seylan Uptime](https://github.com/ArdenoStudio/seylan-uptime-monitor) | Ardeno / operations | Public uptime and status history for Seylan Hub. | Upptime, GitHub Actions |
+| [SEOS](https://github.com/SuvenSeo/SEO-OS) | Personal AI / automation | Personal AI operating system with memory, tools, Telegram automation, and dashboard workflows. | Next.js, Supabase, Groq, Gemini |
+| [AgentGuard](https://github.com/SuvenSeo/agentguard) | Personal security tooling | Local-first security preflight for AI-agent repos, MCP configs, and developer workstations. | Python CLI, static analysis, SARIF, GitHub Actions |
+| [Secure Review Action](https://github.com/SuvenSeo/secure-review-action) | Personal security tooling | Security-focused deterministic code review GitHub Action with PR comments and SARIF output. | TypeScript, GitHub Actions, Semgrep, SARIF |
+| [Codex Usage Tracker](https://github.com/SuvenSeo/codex-usage-tracker) | Personal developer tooling | Local analytics for Codex usage, token estimates, project breakdowns, and reports. | Python, PowerShell, HTML reports |
+| [FinTech Fraud Lab](https://github.com/SuvenSeo/fintech-fraud-lab) | Personal AI/data lab | Synthetic real-time fraud detection lab with streaming-ready pipeline, ML scoring, and investigator dashboard. | Python, machine learning, analytics, streaming design |
+| [SprintForm AI](https://github.com/SuvenSeo/sprintform-ai) | Personal AI/product lab | Computer-vision workstation for sprint and jump mechanics analysis. | TypeScript, video analysis, sports tech, biomechanics |
+| [Lanka NLP Bench](https://github.com/SuvenSeo/lanka-nlp-bench) | Personal research | Reproducible Sinhala and Tamil NLP benchmark suite with datasets, data cards, baselines, and evaluation scripts. | Python, NLP, Sinhala, Tamil, benchmark |
+| [Ride Pilot](https://github.com/SuvenSeo/ride-pilot) | Personal Android app | RidePilotLK Android app monorepo with project docs and Automata reference materials. | Kotlin, Android, Gradle, mobile app |
+| [InkFlow Studio Demo](https://github.com/SuvenSeo/InkFlow-Studio-Demo) | Studio demo | Premium reader, writer, and admin demo for a polished creative-product workflow. | Full-stack product demo |
+| [FullTank](https://github.com/OnithaPerera/FullTank) | Collaboration / reference | Crowdsourced fuel availability and queue visibility for Sri Lanka. | Next.js, Supabase, maps |
 
 ## Build Style
 

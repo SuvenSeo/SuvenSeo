@@ -1,6 +1,6 @@
 <svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ardeno Studio product network</title>
-  <desc id="desc">A dark visual product network map showing Ardeno Studio connected to web studio work, Sri Lanka market intelligence systems, and AI automation products.</desc>
+  <title id="title">Suven Seoras product network</title>
+  <desc id="desc">A dark visual product network map separating Ardeno Studio work from Suven Seoras personal AI, automation, security, and research projects.</desc>
   <style>
     .sans { font-family: "Inter", "Segoe UI", Arial, sans-serif; }
     .mono { font-family: "SFMono-Regular", "Cascadia Mono", "Consolas", monospace; }
@@ -62,31 +62,31 @@
 
   <g transform="translate(78 64)">
     <text x="0" y="0" dominant-baseline="hanging" class="mono tiny cyan">PRODUCT NETWORK</text>
-    <text x="0" y="28" dominant-baseline="hanging" class="sans title white">Ardeno Studio operating map</text>
-    <text x="0" y="82" dominant-baseline="hanging" class="sans subtitle muted">Websites, local market-intelligence products, AI tooling, and automation systems connected through one shipping engine.</text>
+    <text x="0" y="28" dominant-baseline="hanging" class="sans title white">Suven product network</text>
+    <text x="0" y="82" dominant-baseline="hanging" class="sans subtitle muted">Ardeno Studio work on one side, personal AI and automation projects on the other.</text>
   </g>
 
   <g transform="translate(72 170)">
     <rect width="300" height="452" rx="24" class="core"/>
-    <text x="30" y="42" class="mono tiny cyan">CORE</text>
-    <text x="30" y="82" class="sans title white" style="font-size:34px">Ardeno</text>
-    <text x="30" y="121" class="sans title white" style="font-size:34px">Studio</text>
-    <text x="30" y="166" class="sans body soft">Co-founder-led web studio and</text>
-    <text x="30" y="190" class="sans body soft">product lab for fast, polished,</text>
-    <text x="30" y="214" class="sans body soft">locally aware software systems.</text>
+    <text x="30" y="42" class="mono tiny cyan">PROFILE</text>
+    <text x="30" y="82" class="sans title white" style="font-size:34px">Suven</text>
+    <text x="30" y="121" class="sans title white" style="font-size:34px">Seoras</text>
+    <text x="30" y="166" class="sans body soft">Co-founder at Ardeno Studio,</text>
+    <text x="30" y="190" class="sans body soft">with separate personal labs for</text>
+    <text x="30" y="214" class="sans body soft">AI, automation, and research.</text>
 
     <g transform="translate(30 260)">
       <rect width="112" height="48" rx="14" fill="rgba(56,189,248,.13)" stroke="rgba(56,189,248,.38)"/>
-      <text x="18" y="30" class="mono chip cyan">WEB</text>
+      <text x="18" y="30" class="mono chip cyan">ARDENO</text>
       <rect x="128" width="112" height="48" rx="14" fill="rgba(52,211,153,.13)" stroke="rgba(52,211,153,.36)"/>
-      <text x="146" y="30" class="mono chip green">DATA</text>
+      <text x="146" y="30" class="mono chip green">MARKET</text>
       <rect y="64" width="112" height="48" rx="14" fill="rgba(245,158,11,.13)" stroke="rgba(245,158,11,.38)"/>
-      <text x="18" y="94" class="mono chip amber">OPS</text>
+      <text x="18" y="94" class="mono chip amber">PERSONAL</text>
       <rect x="128" y="64" width="112" height="48" rx="14" fill="rgba(251,113,133,.13)" stroke="rgba(251,113,133,.36)"/>
-      <text x="146" y="94" class="mono chip rose">AI</text>
+      <text x="146" y="94" class="mono chip rose">LABS</text>
     </g>
 
-    <text x="30" y="406" class="mono tiny muted">LIVE BUILDS + PUBLIC REPOS</text>
+    <text x="30" y="406" class="mono tiny muted">PUBLIC PORTFOLIO, SPLIT BY CONTEXT</text>
   </g>
 
   <path d="M372 254C432 254 444 218 492 218" class="line" marker-end="url(#arrow)"/>
@@ -97,7 +97,7 @@
     <rect width="636" height="140" rx="22" class="lane-web"/>
     <circle cx="36" cy="40" r="12" fill="rgba(56,189,248,.22)" stroke="rgba(56,189,248,.75)"/>
     <path d="M30 40H42M36 34V46" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
-    <text x="64" y="45" class="sans lane-title white">Web Studio</text>
+    <text x="64" y="45" class="sans lane-title white">Ardeno Web Studio</text>
     <text x="64" y="72" class="sans body soft">Premium websites and brand-led demos that prove the studio can ship polished client work.</text>
     <g transform="translate(64 94)">
       <rect width="98" height="30" rx="10" class="chip-bg"/>
@@ -139,31 +139,31 @@
     <rect width="636" height="176" rx="22" class="lane-ai"/>
     <circle cx="36" cy="40" r="12" fill="rgba(251,113,133,.18)" stroke="rgba(251,113,133,.72)"/>
     <path d="M31 40H41M36 35V45M45 35L49 31M45 45L49 49M27 35L23 31M27 45L23 49" stroke="#fb7185" stroke-width="2" stroke-linecap="round"/>
-    <text x="64" y="45" class="sans lane-title white">AI + Automation</text>
-    <text x="64" y="72" class="sans body soft">Agent tooling, workflow systems, review automation, local analytics, and focused AI labs.</text>
+    <text x="64" y="45" class="sans lane-title white">Personal Labs + Tooling</text>
+    <text x="64" y="72" class="sans body soft">Personal AI, automation, security tooling, local analytics, research, and app experiments.</text>
     <g transform="translate(64 96)">
-      <rect width="112" height="30" rx="10" class="chip-bg"/>
-      <text x="16" y="20" class="mono chip rose">Seylan Hub</text>
-      <rect x="124" width="76" height="30" rx="10" class="chip-bg"/>
-      <text x="140" y="20" class="mono chip rose">SEOS</text>
-      <rect x="212" width="132" height="30" rx="10" class="chip-bg"/>
-      <text x="228" y="20" class="mono chip rose">AgentGuard</text>
-      <rect x="356" width="156" height="30" rx="10" class="chip-bg"/>
-      <text x="372" y="20" class="mono chip rose">Secure Review</text>
-      <rect y="42" width="104" height="30" rx="10" class="chip-bg"/>
-      <text x="16" y="62" class="mono chip rose">Codex</text>
-      <rect x="116" y="42" width="120" height="30" rx="10" class="chip-bg"/>
-      <text x="132" y="62" class="mono chip rose">Fraud Lab</text>
-      <rect x="248" y="42" width="128" height="30" rx="10" class="chip-bg"/>
-      <text x="264" y="62" class="mono chip rose">SprintForm</text>
-      <rect x="388" y="42" width="124" height="30" rx="10" class="chip-bg"/>
-      <text x="404" y="62" class="mono chip rose">NLP Bench</text>
+      <rect width="76" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="20" class="mono chip rose">SEOS</text>
+      <rect x="88" width="132" height="30" rx="10" class="chip-bg"/>
+      <text x="104" y="20" class="mono chip rose">AgentGuard</text>
+      <rect x="232" width="156" height="30" rx="10" class="chip-bg"/>
+      <text x="248" y="20" class="mono chip rose">Secure Review</text>
+      <rect x="400" width="104" height="30" rx="10" class="chip-bg"/>
+      <text x="416" y="20" class="mono chip rose">Codex</text>
+      <rect y="42" width="120" height="30" rx="10" class="chip-bg"/>
+      <text x="16" y="62" class="mono chip rose">Fraud Lab</text>
+      <rect x="132" y="42" width="128" height="30" rx="10" class="chip-bg"/>
+      <text x="148" y="62" class="mono chip rose">SprintForm</text>
+      <rect x="272" y="42" width="124" height="30" rx="10" class="chip-bg"/>
+      <text x="288" y="62" class="mono chip rose">NLP Bench</text>
+      <rect x="408" y="42" width="110" height="30" rx="10" class="chip-bg"/>
+      <text x="424" y="62" class="mono chip rose">Ride Pilot</text>
     </g>
   </g>
 
   <g transform="translate(82 708)">
     <rect width="1036" height="38" rx="14" fill="rgba(2,6,23,.56)" stroke="rgba(148,163,184,.16)"/>
-    <text x="24" y="25" class="mono tiny muted">READ THE TABLE BELOW FOR REPO LINKS, LIVE URLS, STACK NOTES, AND WHAT EACH PRODUCT DOES.</text>
-    <text x="762" y="25" class="mono tiny cyan">SHIP FAST. VERIFY LIVE. KEEP RECEIPTS.</text>
+    <text x="24" y="25" class="mono tiny muted">ARDENO STUDIO WORK AND PERSONAL PROJECTS ARE SEPARATED IN THE TABLE BELOW.</text>
+    <text x="746" y="25" class="mono tiny cyan">SHIP FAST. VERIFY LIVE. KEEP RECEIPTS.</text>
   </g>
 </svg>
