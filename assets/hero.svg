@@ -1,0 +1,168 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Suven Seoras — SUVEN//OS boot sequence</title>
+  <desc id="d">Animated cinematic command-center banner: an AI operating system booting, showing Suven Seoras and Ardeno Studio across web, data-intelligence, automation and AI lanes.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#01040c"/>
+      <stop offset=".45" stop-color="#06101f"/>
+      <stop offset=".78" stop-color="#0a1322"/>
+      <stop offset="1" stop-color="#21090f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="40" x2="1140" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset=".5" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e9f6ff"/>
+      <stop offset=".55" stop-color="#7fe9c7"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7ff0d4" stop-opacity=".95"/>
+      <stop offset=".5" stop-color="#34d399" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aur1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aur2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fb7185" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#fb7185" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="rgba(148,163,184,0.07)" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <clipPath id="round"><rect width="1200" height="420" rx="28"/></clipPath>
+    <style>
+      .mono{font-family:"SFMono-Regular","Cascadia Mono","Consolas","Liberation Mono",monospace;}
+      .sans{font-family:"Inter","Segoe UI","Helvetica Neue",Arial,sans-serif;}
+      .muted{fill:#8ea3bd;} .white{fill:#f4f9ff;} .cyan{fill:#38bdf8;}
+      .green{fill:#34d399;} .amber{fill:#fbbf24;} .rose{fill:#fb7185;}
+
+      .boot{opacity:0;animation:boot .5s ease forwards;}
+      @keyframes boot{to{opacity:1;}}
+      .l1{animation-delay:.5s}.l2{animation-delay:.9s}.l3{animation-delay:1.3s}
+      .l4{animation-delay:1.7s}.l5{animation-delay:2.1s}
+
+      .rise{opacity:0;transform:translateY(10px);animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards;}
+      @keyframes rise{to{opacity:1;transform:translateY(0);}}
+      .d2{animation-delay:.35s}.d3{animation-delay:1.0s}.d4{animation-delay:1.2s}
+      .d5{animation-delay:1.4s}.d6{animation-delay:1.6s}.d7{animation-delay:2.2s}
+
+      .blink{animation:blink 1.05s steps(1) infinite;}
+      @keyframes blink{50%{opacity:0;}}
+      .glow{animation:glow 3.6s ease-in-out infinite;}
+      @keyframes glow{0%,100%{opacity:.45;}50%{opacity:.9;}}
+      .breathe{animation:breathe 4.5s ease-in-out infinite;transform-origin:center;}
+      @keyframes breathe{0%,100%{transform:scale(1);opacity:.85;}50%{transform:scale(1.14);opacity:1;}}
+      .drift1{animation:drift1 14s ease-in-out infinite;}
+      @keyframes drift1{0%,100%{transform:translate(0,0);}50%{transform:translate(70px,30px);}}
+      .drift2{animation:drift2 17s ease-in-out infinite;}
+      @keyframes drift2{0%,100%{transform:translate(0,0);}50%{transform:translate(-60px,-26px);}}
+      .pulse{animation:pulse 2.6s ease-in-out infinite;}
+      @keyframes pulse{0%,100%{opacity:.5;}50%{opacity:1;}}
+      .p2{animation-delay:.6s}.p3{animation-delay:1.2s}.p4{animation-delay:1.8s}
+    </style>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <ellipse class="drift1" cx="270" cy="130" rx="320" ry="220" fill="url(#aur1)"/>
+    <ellipse class="drift2" cx="980" cy="320" rx="300" ry="220" fill="url(#aur2)"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+
+    <!-- scanline sweep -->
+    <rect x="-260" y="0" width="260" height="420" fill="url(#accent)" opacity=".06">
+      <animate attributeName="x" from="-260" to="1200" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- top accent rule -->
+    <path d="M58 86H1142" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+
+    <!-- window chrome bar -->
+    <g class="rise">
+      <rect x="54" y="32" width="1092" height="42" rx="13" fill="rgba(10,16,28,0.78)" stroke="rgba(148,163,184,0.26)"/>
+      <circle cx="80" cy="53" r="6" class="rose pulse"/>
+      <circle cx="100" cy="53" r="6" class="amber pulse p2"/>
+      <circle cx="120" cy="53" r="6" class="green pulse p3"/>
+      <text x="150" y="58" class="mono muted" font-size="13">suven@ardeno: ~/build-ops — zsh</text>
+      <text x="930" y="58" class="mono cyan" font-size="13">STATUS: ONLINE</text>
+      <rect x="1058" y="44" width="9" height="18" class="green blink"/>
+    </g>
+
+    <!-- left: identity -->
+    <g transform="translate(70 116)">
+      <rect class="rise" width="560" height="206" rx="22" fill="rgba(2,8,20,0.78)" stroke="rgba(56,189,248,0.5)"/>
+      <text class="sans white rise d3" x="30" y="64" font-size="52" font-weight="800" fill="url(#title)">Suven Seoras</text>
+      <text class="mono cyan rise d4" x="32" y="100" font-size="20" font-weight="600">AI · DATA · PRODUCT ENGINEER</text>
+      <text class="mono muted rise d5" x="32" y="134" font-size="15">co-founder @ Ardeno Studio · Colombo, LK</text>
+      <text class="mono muted rise d6" x="32" y="162" font-size="15">premium web · market-intelligence systems</text>
+      <text class="mono muted rise d6" x="32" y="184" font-size="15">automation pipelines · AI-native products</text>
+    </g>
+
+    <!-- right top: boot log -->
+    <g transform="translate(688 116)">
+      <rect class="rise d2" width="442" height="120" rx="18" fill="rgba(10,16,28,0.7)" stroke="rgba(148,163,184,0.24)"/>
+      <text x="22" y="32" class="mono muted" font-size="12">$ booting SUVEN//OS</text>
+      <text x="22" y="54" class="mono green boot l1" font-size="13">✓ studio.web ............ ready</text>
+      <text x="22" y="74" class="mono cyan boot l2" font-size="13">✓ intel.lk .............. streaming</text>
+      <text x="22" y="94" class="mono amber boot l3" font-size="13">✓ automation.core ....... armed</text>
+      <text x="22" y="114" class="mono rose boot l4" font-size="13">✓ ai.agents ............. learning</text>
+    </g>
+
+    <!-- right bottom: operating lanes -->
+    <g transform="translate(688 248)">
+      <rect class="rise d2" width="442" height="74" rx="18" fill="rgba(10,16,28,0.7)" stroke="rgba(148,163,184,0.24)"/>
+      <g class="rise d5" transform="translate(18 16)">
+        <rect width="98" height="42" rx="11" fill="rgba(56,189,248,0.12)" stroke="rgba(56,189,248,0.5)"/>
+        <text x="49" y="26" class="mono cyan" font-size="12" font-weight="700" text-anchor="middle">WEB</text>
+      </g>
+      <g class="rise d5" transform="translate(124 16)">
+        <rect width="98" height="42" rx="11" fill="rgba(52,211,153,0.12)" stroke="rgba(52,211,153,0.5)"/>
+        <text x="49" y="26" class="mono green" font-size="12" font-weight="700" text-anchor="middle">DATA</text>
+      </g>
+      <g class="rise d6" transform="translate(230 16)">
+        <rect width="98" height="42" rx="11" fill="rgba(251,191,36,0.12)" stroke="rgba(251,191,36,0.5)"/>
+        <text x="49" y="26" class="mono amber" font-size="12" font-weight="700" text-anchor="middle">AUTO</text>
+      </g>
+      <g class="rise d6" transform="translate(336 16)">
+        <rect width="98" height="42" rx="11" fill="rgba(251,113,133,0.12)" stroke="rgba(251,113,133,0.5)"/>
+        <text x="49" y="26" class="mono rose" font-size="12" font-weight="700" text-anchor="middle">AI</text>
+      </g>
+    </g>
+
+    <!-- pulsing AI core node between panels -->
+    <g transform="translate(648 219)">
+      <circle r="46" fill="url(#core)" class="breathe"/>
+      <circle r="9" class="green"/>
+      <circle r="16" fill="none" stroke="#34d399" stroke-width="1.4" opacity=".7" class="glow"/>
+      <circle r="26" fill="none" stroke="#34d399" stroke-width="1" opacity=".35" class="glow"/>
+    </g>
+
+    <!-- bottom live-systems ticker -->
+    <g transform="translate(0 360)">
+      <rect x="70" y="0" width="1060" height="44" rx="14" fill="rgba(2,8,20,0.72)" stroke="rgba(148,163,184,0.2)"/>
+      <text x="92" y="28" class="mono muted" font-size="13">LIVE ▸</text>
+      <g clip-path="url(#round)">
+        <g class="mono white" font-size="14">
+          <text x="160" y="28">
+            OCTANE&#160;&#160;·&#160;&#160;PROPERTYLK&#160;&#160;·&#160;&#160;AUTOLENS&#160;LK&#160;&#160;·&#160;&#160;FOODLK&#160;&#160;·&#160;&#160;ARIVA&#160;&#160;·&#160;&#160;SEYLAN&#160;HUB&#160;&#160;·&#160;&#160;SEOS&#160;&#160;·&#160;&#160;AGENTGUARD&#160;&#160;·&#160;&#160;LANKA&#160;NLP&#160;BENCH&#160;&#160;·&#160;&#160;
+            <animate attributeName="x" from="160" to="-980" dur="22s" repeatCount="indefinite"/>
+          </text>
+          <text x="1140" y="28">
+            OCTANE&#160;&#160;·&#160;&#160;PROPERTYLK&#160;&#160;·&#160;&#160;AUTOLENS&#160;LK&#160;&#160;·&#160;&#160;FOODLK&#160;&#160;·&#160;&#160;ARIVA&#160;&#160;·&#160;&#160;SEYLAN&#160;HUB&#160;&#160;·&#160;&#160;SEOS&#160;&#160;·&#160;&#160;AGENTGUARD&#160;&#160;·&#160;&#160;LANKA&#160;NLP&#160;BENCH&#160;&#160;·&#160;&#160;
+            <animate attributeName="x" from="1140" to="0" dur="22s" repeatCount="indefinite"/>
+          </text>
+        </g>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="418" rx="28" fill="none" stroke="rgba(56,189,248,0.35)" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="100%" height="6" viewBox="0 0 1200 6" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#fb7185" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="6" rx="3" fill="url(#g)" opacity=".7">
+    <animate attributeName="opacity" values=".35;.85;.35" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
